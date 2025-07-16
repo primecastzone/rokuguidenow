@@ -10,7 +10,7 @@ How to Connect Your Roku to Your Account via Roku.com/Link
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_31-removebg-preview.png
    :width: 350px
    :align: center
    :height: 100px
